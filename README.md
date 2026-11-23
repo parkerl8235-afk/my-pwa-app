@@ -13,3 +13,6 @@
 Planting records are stored in that browser on that device. Use the app's **Backup** tab to export a JSON backup regularly.
 
 Visual in this app was generated with Microsoft Copilot.
+
+## Calendar update
+The Calendar tab shows planting, transplant, harvest, and custom note/task dates. Tap a day to add a note.
