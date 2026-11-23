@@ -16,3 +16,11 @@ Visual in this app was generated with Microsoft Copilot.
 
 ## Calendar update
 The Calendar tab shows planting, transplant, harvest, and custom note/task dates. Tap a day to add a note.
+
+## Version 3 updates
+- Opening Dashboard with germinating, seedling, and planted totals
+- Expandable crops showing variety counts and stage locations
+- Structured garden locations, GS1-GS19, five greenhouse raised beds, nurseries, Growbag Row, and alley containers
+- Garden Map tab
+- Split-stage inventory quantities and counting units
+- Existing version 2 records migrate as one planted item
