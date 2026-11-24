@@ -1,7 +1,7 @@
 {
   "name": "Latoya's Gardening Master Plan",
   "short_name": "Garden Plan",
-  "description": "Track planting, transplant, and estimated harvest dates.",
+  "description": "Garden inventory dashboard, planting schedule, calendar, map, and harvest planner.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
