@@ -1,3 +1,3 @@
-# Latoya Garden Planner v6.5
+# Latoya Garden Planner v6.6
 
-Map-first home and polished Feeding Center layout.
+Restores authoritative crop, variety, location, search, and feeding-view filters.
